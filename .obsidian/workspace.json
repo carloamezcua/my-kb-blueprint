@@ -174,14 +174,23 @@
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
+          },
+          {
+            "id": "3657331441c06d15",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98270ba2d276a46c",
+  "active": "785ad516cbdfeba7",
   "lastOpenFiles": [
     "README.md"
   ]
